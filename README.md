@@ -69,11 +69,11 @@ python main.py
 
 ```
 GDG_stock_tech_analysis
-├── 📂 src/               # Source code for analysis
-│   ├── analysis.py     # Technical indicator calculations
-│   ├── parser.py          # Graph plotting functions
-│   ├── synthesizer.py      # Main stock analysis logic
-│   ├── utils.py      # Main stock analysis logic
+├── 📂 src/                 # Source code for analysis
+│   ├── analysis.py         # Technical indicator calculations
+│   ├── parser.py           # Retrive stock data from input tickers
+│   ├── synthesizer.py      # generate offline stock data in case online API cannot be used
+│   ├── utils.py            # utility functions
 ├── config.py            # Configuration settings
 ├── main.py              # Runs the stock analysis
 ├── requirements.txt     # Required Python packages
