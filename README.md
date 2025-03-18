@@ -9,6 +9,7 @@ GDG Stock Technical Analysis is a Python-based tool designed to process parsed s
 🚀 Features
 
 ✔️ Processes stock data (parsed from Yahoo Finance or other sources)
+
 ✔️ Evaluates trading signals using multiple strategies:
 
   Moving Averages (MA)
